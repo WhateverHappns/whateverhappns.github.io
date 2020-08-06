@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## What is this?
+---
+Here I will be posting most of my projects. What projects you ask? Well, currently I'm working on three things:
+- [Quantitative Finance](https://github.com/whateverhappns/quantproject.git), which is currently private.
+  - Here the main goal is to familiarize myself with the state of the art concepts in quantitative finance. Right now, I'm working on [hidden Markov models.](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+  
+- [SmartHub](https://github.com/whateverhappns/smarthub.git) is an app which I'm developing. I am not quite sure on what it's exact purpose will be. Certainly, it will not be something which I hope to scale up, but more like something for a minority of individuals. It will try to provide **truly new** content to the user. You know how on most social media platforms you get recommended the same stuff all the time? Well, there's a saying from Socrates: 
 
-You can use the [editor on GitHub](https://github.com/WhateverHappns/whateverhappns.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WhateverHappns/whateverhappns.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> You don't know what you don't know.
