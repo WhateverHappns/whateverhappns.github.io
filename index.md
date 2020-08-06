@@ -14,4 +14,4 @@ Here I will be posting most of my projects. What projects you ask? Well, current
   
   Essentially solve this problem:
   
-  <img src="https://github.com/WhateverHappns/whateverhappns.github.io/blob/master/imgs/ydk.jpg" width="385" height="235" />
+  ![img](https://github.com/WhateverHappns/whateverhappns.github.io/blob/master/imgs/ydk.jpg =385x235)
