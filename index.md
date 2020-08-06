@@ -14,4 +14,4 @@ Here I will be posting most of my projects. What projects you ask? Well, current
   
   Essentially solve this problem:
   
-  ![img](https://planningengineer.net/wp-content/uploads/2020/02/what_you_dont_know_charts.jpg =385x235)
+  ![img](https://planningengineer.net/wp-content/uploads/2020/02/what_you_dont_know_charts.jpg)
