@@ -10,5 +10,8 @@ Here I will be posting most of my projects. What projects you ask? Well, current
     > You don't know what you don't know.
     > - Socrates
 
-  and so I thought I'd create an app/website/environment where you can find new material to study. Essentially solve this problem:
+  and so I thought I'd create an app/website/environment where you can find new material to study. 
+  
+  Essentially solve this problem:
+  
   <img src="https://github.com/WhateverHappns/whateverhappns.github.io/blob/master/imgs/ydk.jpg" width="385" height="235" />
