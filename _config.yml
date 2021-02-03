@@ -1,4 +1,41 @@
-remote_theme: mx3m/hikari-for-jekyll
-title: Welcome
-name: WhateverHappns
-description: Don't know yet -- will elaborate later.
+# Title of your blog; shows in the header
+name: "WhateverHappns"
+
+# Description of your content (will only be used on Google Search)
+description: "A random collection of essays."
+
+# Your name. Will show in your footer + sidebar
+author: "WhateverHappns"
+
+url: "http://whateverhappns.github.io"
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
+author-bio: "Here you will find my essays which are collections of my thoughts on certain things such as wealth building."
+
+# Social Accounts (mine, as placeholders)
+
+# twitter: mx3m
+github: WhateverHappns 
+# dribbble: m3xm
+# instagram: m3xm
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+# ga_domain: m3xm.github.io
+# ga_tracking_id: UA-47727049-1
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
