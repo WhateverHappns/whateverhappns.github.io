@@ -26,7 +26,7 @@ github: WhateverHappns
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
-markdown: kramdown
+# markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-paginate
