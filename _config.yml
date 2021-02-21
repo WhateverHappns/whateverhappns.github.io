@@ -26,7 +26,7 @@ github: WhateverHappns
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
-# markdown: kramdown
+markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-paginate
@@ -38,4 +38,4 @@ paginate_path: "/page/:num"
 
 sass:
   sass_dir: _scss
-  style: :compressed
+  #style: :compressed
