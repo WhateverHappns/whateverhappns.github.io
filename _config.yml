@@ -2,7 +2,7 @@
 name: "WhateverHappns"
 
 # Description of your content (will only be used on Google Search)
-description: "A random collection of essays."
+description: 
 
 # Your name. Will show in your footer + sidebar
 author: "WhateverHappns"
@@ -10,7 +10,7 @@ author: "WhateverHappns"
 url: "http://whateverhappns.github.io"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "Here you will find my essays which are collections of my thoughts on certain things such as wealth building."
+author-bio: 
 
 # Social Accounts (mine, as placeholders)
 
